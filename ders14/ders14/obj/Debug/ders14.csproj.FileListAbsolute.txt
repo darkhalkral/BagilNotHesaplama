@@ -1,0 +1,13 @@
+C:\Users\halid\source\repos\ders14\ders14\bin\Debug\ders14.exe.config
+C:\Users\halid\source\repos\ders14\ders14\bin\Debug\ders14.exe
+C:\Users\halid\source\repos\ders14\ders14\bin\Debug\ders14.pdb
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.Form1.resources
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.Properties.Resources.resources
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.csproj.GenerateResource.cache
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.exe
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.pdb
+C:\Users\halid\source\repos\ders14\ders14\bin\Debug\ders14_dll.dll
+C:\Users\halid\source\repos\ders14\ders14\bin\Debug\ders14_dll.pdb
+C:\Users\halid\source\repos\ders14\ders14\obj\Debug\ders14.csproj.CopyComplete
